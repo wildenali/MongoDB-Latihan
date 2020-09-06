@@ -18,3 +18,7 @@ Belajar database mongoDB
    config 0.000GB
    local 0.000GB
 ```
+
+### Documentation of Database Methods
+
+[https://docs.mongodb.com/manual/reference/method/js-database/](https://docs.mongodb.com/manual/reference/method/js-database/)
