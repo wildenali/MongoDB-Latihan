@@ -20,7 +20,7 @@ db.products.insertMany([
 
 // Insert document orders
 db.orders.insertOne({
-  _id: new ObjectId(),
+  _id: new ObjectId(), // auto generate
   total: new NumberLong(8000),
   item: [
     {
