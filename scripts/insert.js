@@ -5,7 +5,7 @@ db.customers.insertOne({
 });
 
 // Insert document products
-db.productsinserMany([
+db.products.insertMany([
   {
     _id: 1,
     name: "Indomie Ayam Bawang",
