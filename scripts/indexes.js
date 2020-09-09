@@ -90,3 +90,14 @@ db.products.find({
 db.products.find({
   tags: "popular",
 }).explain();
+
+
+/*
+Indexing Strategy
+- Buat index untuk mendukung performa query
+  ~ Gunakan single index, jika kita hanya ingin melakukan query terhadap satu field saja
+  ~ Gunakan compound index, jika kita sering melakukan query ke field pertama, atau
+    kombinasi field pertama dan kedua, atau pertama dan kedua dan seterusnya
+- Buat index untuk mengurutkan hasil query
+- Sering-seringlah menggunakan function explain() untuk mengecek apakah query kita sudah di optimize dengan index atau belum
+*/
