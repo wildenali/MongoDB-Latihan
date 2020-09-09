@@ -44,7 +44,7 @@ db.collection.createIndex(
 db.createCollection("sessions");
 
 // cek dulu
-show collections
+// show collections;  di mongo.exe
 
 // Create TTL Index
 db.sessions.createIndex({
