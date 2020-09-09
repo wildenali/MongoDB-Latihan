@@ -9,6 +9,7 @@ db.<collection>.deleteMany(query) -> Menghapus banyak document yg sesuai dengan 
 
 // Untuk supaya tidak menghapus data yg ada, awalnya kita masukan data tambahan dulu
 // Insert spammer document
+db.customers.find(); // Cek dulu
 db.customers.insertOne({
   _id: "spammer",
   full_name: "Spammer",
