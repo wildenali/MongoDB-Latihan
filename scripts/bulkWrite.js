@@ -57,7 +57,7 @@ db.customers.bulkWrite([
     insertMany: {
       filter: {
         _id: {
-          $in: ["eko", "kurniawan", "khannedy"],
+          $in: ["eko", "kurniawan", "Khannedy"],
         },
       },
       update: {
