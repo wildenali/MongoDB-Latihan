@@ -22,3 +22,9 @@ Belajar database mongoDB
 ### Documentation of Database Methods
 
 [https://docs.mongodb.com/manual/reference/method/js-database/](https://docs.mongodb.com/manual/reference/method/js-database/)
+
+# Reference
+
+- Youtube Channel Programmer Jaman Now [https://www.youtube.com/watch?v=JXXUBiJGu94&list=PL-CtdCApEFH-eFFdPeS5e16o3THdmvxvz](https://www.youtube.com/watch?v=JXXUBiJGu94&list=PL-CtdCApEFH-eFFdPeS5e16o3THdmvxvz)
+- [https://docs.mongodb.com/manual/](https://docs.mongodb.com/manual/)
+- [https://www.tutorialspoint.com/mongodb/index.htm](https://www.tutorialspoint.com/mongodb/index.htm)
